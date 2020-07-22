@@ -35,8 +35,6 @@ Response will look like:
 By default, the exact match URL is checked in SERPs. If you want to match just the domain name (excluding path), you can pass a third parameter as `False` to `get_ranking()` function:
 
 ```python
-from gkpt.lib import Gkpt
-tracker = Gkpt('your-serpsbot-api-key')
 result = tracker.get_ranking('en.wikipedia.org', 'Guido van Rossum', exactMatchUrl=False)
 ```
 Response will look like:
