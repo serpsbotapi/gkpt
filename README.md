@@ -42,8 +42,8 @@ result = tracker.get_ranking('en.wikipedia.org', 'Guido van Rossum', exactMatchU
 Response will look like:
 ```json
 {
-    'url': 'https://en.wikipedia.org/wiki/Guido_van_Rossum',
-    'rank': 1
+    "url": "https://en.wikipedia.org/wiki/Guido_van_Rossum",
+    "rank": 1
 }
 ```
 
