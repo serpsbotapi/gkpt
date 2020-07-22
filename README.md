@@ -27,8 +27,8 @@ result = tracker.get_ranking('https://gvanrossum.github.io/', 'Guido van Rossum'
 Response will look like:
 ```json
 {
-    'url': 'https://gvanrossum.github.io/',
-    'rank': 2
+    "url": "https://gvanrossum.github.io/",
+    "rank": 2
 }
 ```
 
