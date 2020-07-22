@@ -11,6 +11,6 @@ setup(name='gkpt',
 		'gkpt'
 	],
 	install_requires=[
-		'requests'
+		'serpsbot'
 	]
 )
