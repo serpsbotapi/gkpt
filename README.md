@@ -12,6 +12,7 @@ Or clone this repo and run setup:
 ```bash
 git clone https://github.com/serpsbotapi/gkpt && \
 cd gkpt && \
+pip install -r requirements.txt && \
 python setup.py install
 ```
 
