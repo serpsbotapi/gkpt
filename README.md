@@ -65,7 +65,7 @@ result = tracker.get_ranking('gvanrossum.github.io', 'Guido van Rossum', exactMa
 ```
 
 ### Bugs & Issues
-Please use the issues section to report any bugs. Before opening a new issue, please considering looking through the existing issues to find any possible solution.
+Please use the issues section to report any bugs. Before opening a new issue, please consider looking through the existing issues to find any possible solution.
 
 ### Contact Us
 For queries, contact us at **sales[at]serpsbot.com**.
